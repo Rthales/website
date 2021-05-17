@@ -24,4 +24,4 @@ jobs:
           FLAGS: --force # optional
           SSH_PRIVATE_KEY: ${{ secrets.DOKKU_PRIVATE_KEY }}
           SSH_PUBLIC_KEY: ${{ secrets.DOKKU_PUBLIC_KEY }}
-          SSH_HOST: ${{ secrets.DOKKU_HOST }}
+          SSH_HOST: ${{ secrets.DOKKU_HOST }}t
