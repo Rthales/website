@@ -11,7 +11,8 @@ import Pager from '../utils/pager';
 
 export default class PageVault {
   private chart: ApexCharts;
-
+  let key: string = 'def16a344af117bb062472c41ae790e431a16402';
+ 
   async open() {
     $('.link-vault').addClass('active');
     $('.page-vault').show();
