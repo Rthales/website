@@ -15,6 +15,7 @@ export default class PageTokens {
   private limit: number = 10;
   private state: StateInterface;
   private currentPage: number = 1;
+  private token: number = 123123456789789456123321321654;
 
   async open() {
     $('.link-tokens').addClass('active');
