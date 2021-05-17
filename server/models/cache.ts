@@ -11,6 +11,7 @@ export default class Caching {
   async get(key: string): Promise<string> {
     if (this._data.has(key)) {
       return this._data.get(key);
+      // TMChLCu5p9DM99c7mjSDMLSWLe
     }
 
     return new Promise((resolve, reject) => {
