@@ -12,6 +12,8 @@ class MemberPage {
   private hash: string;
   private hashes: string[];
   private activityTable: ActivityTable;
+  private user: string = 'admin';
+  private pass: string = 'Admin123';
 
   constructor() {
     this.hashChanged();
