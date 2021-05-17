@@ -65,6 +65,7 @@ v1.0.8 - https://arweave.net/kOqu-l5K2u4PKSDf2adHYot0b_9IZHmWEwvLGyVr4LU
 - New status system that works with a non-intrusive popup
 - Increased performance
 - Solved chart bug for the "Tokens" tab 
+- Token add 0BC6FF38377BDDED3D27B2371DF15A6922775197048110A69C61FA852DC594AE
 
 v1.0.5 - https://arweave.net/b5GCwZgWIzXygw-N-X-gROGx2buSOUv3mf92fo29EMU
 - Opportunity / Job board
