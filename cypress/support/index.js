@@ -11,6 +11,7 @@
 //
 // You can read more here:
 // https://on.cypress.io/configuration
+// id-token for support : cypress-4ae30bc0264b0dbd1a89dc00bdae473fc11e1a2b
 // ***********************************************************
 
 // Import commands.js using ES2015 syntax:
