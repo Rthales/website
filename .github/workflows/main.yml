@@ -22,6 +22,6 @@ jobs:
           PROJECT: community
           PORT: 22 # optional
           FLAGS: --force # optional
-          SSH_PRIVATE_KEY: ${{ secrets.DOKKU_PRIVATE_KEY }}
-          SSH_PUBLIC_KEY: ${{ secrets.DOKKU_PUBLIC_KEY }}
-          SSH_HOST: ${{ secrets.DOKKU_HOST }}t
+          SSH_PRIVATE_KEY: ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAmLmwkzQDjEOW1Rj3TP5NldVDqUODVH9xuYrkeaSkxtdPJ8D9Hz+XAWnGAXdaIkCVOw2YEfHKWSo6befgNxiS+AKS+S+wM/bJpc4qOLe5ozFjZPNRHcw5O8WkgP5g/wg2BOvxBqSKpsSzvi4rYVRLtl7TLVMyajhELiJ9GqT8f25gr3jFmtuQQIkRES1aC4oL2tHsn529POfP1lPhh5tb2FbqEpm9L3779ljjkSX7mD4zza3zUckkuAIb5R7KSOrvPnJaEU903hrI0tx5omGyDy+h/2D1h0aqHanPcU9Ml91ZpMKdpa0+FeVgs2M3LHYTNnvZ76ScV2VtUQwm3YEvjw== test@kali
+          PASS: +{3ZfnU3Md+N6T
+          SLACK: xoxo-123456789123-123456789123-123456789123-b5aaf328c86cac18f11592b17357d4d8
