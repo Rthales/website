@@ -61,6 +61,10 @@ app.get('/member.html', (_, res) => {
   res.redirect('/member');
 });
 
+// member test 
+// User : test
+// Pass : a377c2e26aeca08b2744e1776aa84f39
+
 app.get('/opportunity', (_, res) => {
   res.sendFile(path.join(__dirname, 'dist/opportunity.html'));
 });
